@@ -8,10 +8,10 @@ Responsabilidade: Desenvolver um dashboard simples que reúna informações rele
 
 Requisitos adicionais:
 - Segmentação de clientes de acordo com os seguintes dados:
-   - Tipo de assinatura;
+   - Tipo de assinatura ativa; 
    - Gênero do usuário;
-   - Registros de usuários ao longo do tempo;
-   - Países;
-   - Tipo de inscrição por faixa etária. 
+   - Faixa etária do usuário; 
+   - Data inicial da assinatura;
+   - Países de origem dos usuários.
 
 Visualização Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNGEyODY1ZDYtYjI4NS00MTljLTg2OWUtMTNlNWJhNGM1ZGVhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
