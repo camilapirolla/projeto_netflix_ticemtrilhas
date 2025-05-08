@@ -2,7 +2,7 @@ Desafio realizado no curso do portal TIC em Trilhas;
 
 Cliente: Netflix;
 
-Objetivo: Analisar o comportamento dos consumidores em diferentes países;
+Objetivo: Analisar o perfil dos consumidores em diferentes países;
 
 Responsabilidade: Desenvolver um dashboard simples que reúna informações relevantes para melhorar a estratégia de vendas da empresa; 
 
